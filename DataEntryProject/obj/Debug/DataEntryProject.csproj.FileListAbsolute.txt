@@ -1,0 +1,10 @@
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe.config
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.pdb
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csprojAssemblyReference.cache
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.frmDataEntry.resources
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.Properties.Resources.resources
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.GenerateResource.cache
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.CoreCompileInputs.cache
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.exe
+D:\PROJETOS\UdemyCourse (Alex)\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.pdb
